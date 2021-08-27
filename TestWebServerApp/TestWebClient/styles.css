@@ -1,0 +1,12 @@
+
+#allChartsConteiner{
+  height: 50%;
+  width: 50%;
+  margin: auto;
+}
+
+h1{
+  color: mediumseagreen;
+  font-family: "Monaco",monospace;
+  text-align: center;
+}

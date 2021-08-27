@@ -1,0 +1,44 @@
+
+#div2{
+  align-items: center;
+  height: 40%;
+}
+
+#chartContinerCPU{
+  /* height: 45%; */
+  width: 40%;
+  margin-left: 5%;
+  float: left;
+}
+#chartContinerMemory{
+  /* height: 50%; */
+  width: 40%;
+  margin-right: 5%;
+  float: right;
+}
+
+#chartContinerSpeed{
+  /* height: 45%; */
+  width: 40%;
+  margin-left: 5%;
+  float: left;
+}
+#chartContinerDec{
+  /* height: 50%; */
+  width: 40%;
+  margin-right: 5%;;
+  float: right;
+}
+
+#scrollSlider{
+  step: 1;
+  width: 100%;
+  min = 0;
+  max = 2;
+}
+
+h1{
+  color: mediumseagreen;
+  font-family: "Monaco",monospace;
+  text-align: center;
+}
